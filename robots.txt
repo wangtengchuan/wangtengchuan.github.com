@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://wangtengchuan.github.io/sitemap.xml 
