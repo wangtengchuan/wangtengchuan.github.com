@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://wangtengchuan.github.io/atom.xml" rel="self"/>
   <link href="http://wangtengchuan.github.io/"/>
-  <updated>2013-05-29T15:31:22+08:00</updated>
+  <updated>2013-06-03T19:51:32+08:00</updated>
   <id>http://wangtengchuan.github.io/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -12,6 +12,53 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Blog In Git Way.markdown]]></title>
+    <link href="http://wangtengchuan.github.io/blog/2013/05/29/blog-in-git-way.markdown/"/>
+    <updated>2013-05-29T00:00:00+08:00</updated>
+    <id>http://wangtengchuan.github.io/blog/2013/05/29/blog-in-git-way.markdown</id>
+    <content type="html"><![CDATA[﻿---
+layout: post
+title: "这是我的第一篇中文博客"
+date: 2013-05-29 16:13
+comments: true
+categories: 
+---
+##Why?
+*
+*
+*
+##How?
+
+##Reference:
+ *
+ *
+ *
+ *
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Blog In Git Way]]></title>
+    <link href="http://wangtengchuan.github.io/blog/2013/05/29/blog-in-git-way/"/>
+    <updated>2013-05-29T00:00:00+08:00</updated>
+    <id>http://wangtengchuan.github.io/blog/2013/05/29/blog-in-git-way</id>
+    <content type="html"><![CDATA[<p>﻿&mdash;&ndash;
+layout: post
+title: &ldquo;Blog in Chinese&rdquo;
+date: 2013-05-29 16:13
+comments: true</p>
+
+<h2>categories: </h2>
+
+<h2>Why?</h2>
+
+<h2>How?</h2>
+
+<h2>Reference:</h2>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Hello World]]></title>
